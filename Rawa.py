@@ -233,7 +233,7 @@ def action():
     time.sleep(0.5)
     psb('[\xe2\x9c\x93] Trying Passwords Wait...')
     time.sleep(0.5)
-    psb('[!] Bo Wastandny Tool a ks CTRL z')
+    psb('[!] Bo Wastandny Tool ka CTRL z')
     time.sleep(0.5)
     print '\x1b[1;97m--------------------------------------------------'
 
